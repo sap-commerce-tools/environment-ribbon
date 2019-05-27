@@ -13,7 +13,7 @@
 If you want to add a ribbon component to your storefront:
 
 1. Add `envribbonaddon` to your `localextensions.xml`
-1. `ant -Daddonnames="envribbonaddon" -DaddonStorefront.yacceleratorstorefront="<your storefront>"`
+1. `ant addoninstall -Daddonnames="envribbonaddon" -DaddonStorefront.yacceleratorstorefront="<your storefront>"`
 1. Build
 1. Update system
 1. Add a `EnvRibbonComponent` to your `FooterSlot` \
