@@ -4,7 +4,6 @@
     font-family: monospace;
     font-size: 1rem;
     line-height: 1em;
-    text-transform: uppercase;
     white-space: pre;
 
     overflow: hidden;
@@ -14,7 +13,7 @@
     width: 20em;
     transform: rotate(-45deg);
 
-    opacity: .7;
+    opacity: .9;
     color: #e8e8e8;
     box-shadow: 0 0 1em 0.5em rgba(0,0,0,0.75);
 
